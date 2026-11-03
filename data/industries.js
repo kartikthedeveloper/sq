@@ -1,0 +1,11 @@
+export const industries = [
+  { slug: "education", name: "Education", icon: "GraduationCap", text: "Admission, fee, attendance and test platforms, plus learning portals and institute websites that parents can navigate easily.", needs: ["Student and fee management", "Online tests and content portals", "Institute websites with SEO"] },
+  { slug: "healthcare", name: "Healthcare", icon: "HeartPulse", text: "Appointment booking, patient communication and clinic websites built with careful handling of personal data.", needs: ["Appointment booking", "Clinic websites", "Reminder automation"] },
+  { slug: "ecommerce", name: "E-commerce", icon: "ShoppingBag", text: "Storefronts, catalogues and order operations tuned for mobile shoppers and Indian payment methods.", needs: ["Online stores", "Inventory and orders", "Marketing and SEO"] },
+  { slug: "real-estate", name: "Real Estate", icon: "Building2", text: "Property listing sites, enquiry capture and CRM follow-ups that keep brokers and developers organised.", needs: ["Listing websites", "Lead CRM", "Virtual enquiry flows"] },
+  { slug: "finance", name: "Finance", icon: "Landmark", text: "Dashboards, calculators, onboarding flows and reporting tools where accuracy and security come first.", needs: ["Dashboards and reports", "Secure onboarding", "Calculators and tools"] },
+  { slug: "retail", name: "Retail", icon: "Store", text: "Billing, stock and customer tools for shops and chains that want to sell both in person and online.", needs: ["Billing and stock", "Loyalty and CRM", "Local SEO"] },
+  { slug: "startups", name: "Startups", icon: "Rocket", text: "MVP development, technical co-planning and scalable foundations so early choices do not become later problems.", needs: ["MVP build", "Architecture advice", "Launch support"] },
+  { slug: "manufacturing", name: "Manufacturing", icon: "Factory", text: "Production tracking, dealer portals and order systems that replace paper registers and scattered spreadsheets.", needs: ["Order and dispatch tracking", "Dealer portals", "Operational reports"] },
+  { slug: "professional-services", name: "Professional Services", icon: "Briefcase", text: "Lead-generating websites, client portals and workflow automation for consultants, agencies and firms.", needs: ["Authority websites", "Client portals", "Proposal and invoice automation"] },
+];
